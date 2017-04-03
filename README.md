@@ -31,13 +31,13 @@ Meeting agenda and notes are archived [here](https://github.com/argonautproject/
 Issues will be listed and tracked on this Github repository site [here](https://github.com/argonautproject/cd-hooks/issues).
 
 
-### Rendered IG-Template at
+### Rendered Argonaut CDS-Hooks Implementation Guide at
 
-http://build.fhir.org/ig/Healthedata1/IG-Template
+http://build.fhir.org/ig/argonautproject/cds-hooks
 
 (GitHub will automatically trigger a new build whenever you commit changes.)
 
-Debugging info about the build: http://build.fhir.org/ig/Healthedata1/IG-Template/debug.tgz)
+Debugging info about the build: http://build.fhir.org/argonautproject/cds-hooks/debug.tgz)
 
 
 
