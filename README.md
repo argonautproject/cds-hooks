@@ -1,6 +1,8 @@
 # Welcome to the [Argonaut](http://argonautwiki.hl7.org/index.php?title=Main_Page) CDS-Hooks Implementation Guide
 
-Project Lead: [Micky Tripathi](mtripathi@maehc.org)
+CDS Hooks Lead: Kevin Shekleton
+
+Argonaut Lead: [Micky Tripathi](mtripathi@maehc.org)
 
 Project Coordinator: [Jennifer Monahan](jmonahan@maehc.org)
 
