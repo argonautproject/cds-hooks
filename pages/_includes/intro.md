@@ -1,4 +1,4 @@
-## {{ page.title }}
+## {{ site.data.fhir.igName }} Implementation Guide
 
 {% include publish-box.html %}
 
@@ -28,6 +28,8 @@ Since cats were venerated in ancient Egypt, they were commonly believed to have 
 As of a 2007 study, cats are the second most popular pet in the US by number of pets owned, behind freshwater fish.[17] In a 2010 study they were ranked the third most popular pet in the UK, after fish and dogs, with around 8 million being owned.[18]
 
 ### Jekyll Site Variables
+
+igName : Title of the implementation Guide -  {% raw %} {{ site.data.fhir.igName }} {% endraw %}= {{site.data.fhir.igName}}
 
 path : path to the main FHIR specification -  {% raw %} {{ site.data.fhir.path }} {% endraw %}= {{site.data.fhir.path}}
 

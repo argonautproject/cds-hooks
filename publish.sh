@@ -1,6 +1,6 @@
 #!/bin/bash
-name="IG-starter-template"
-path1=/Users/ehaas/Documents/FHIR/IG-Template/
+name="Argonaut CDS Hooks"
+path1=/Users/ehaas/Documents/FHIR/CDS-Hooks/
 path2=/Users/ehaas/Downloads/
 echo "================================================================="
 echo === Publish $name IG!!! $(date -u) ===

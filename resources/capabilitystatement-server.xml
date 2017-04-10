@@ -7,7 +7,7 @@
 <ul><li>FHIR Version: 1.9.0</li><li>Supported formats: xml, json</li><li>Published: 2017-03-08</li><li>Published by: Health eData Inc</li></ul><p>The Section describes the expected capabilities etc....</p></div>
 
 	</text>
-	<url value="http://www.fhir.org/guides/ig-template/CapabilityStatement/server"/>
+	<url value="http://www.fhir.org/guides/argonaut/cds-hooks/CapabilityStatement/server"/>
 	<name value="US Meds Server"/>
 	<status value="draft"/>
 	<date value="2017-03-08"/>
