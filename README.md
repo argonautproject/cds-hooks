@@ -22,7 +22,23 @@ For current documentation on CDS Hooks see the project [web-site](http://cds-hoo
 
 ## Timeline
 
-![under construction](https://github.com/argonautproject/cds-hooks/blob/master/meeting-notes/Screen%20Shot%202017-04-03%20at%203.38.02%20PM.png)
+**Phase 1: April --> June**
+
+- Fully documented patient view hook 
+- SMART launch guide
+- Draft Argonaut CDS Hooks IG outlines how do you use CDS hooks to do a specific use case.
+
+**Phase 2: July --> September**
+
+- Security and authorization model drafted and implemented
+- Threat assessment
+- Solid Argonaut CDS Hooks IG 
+
+**October – Argonaut CDS Hooks IG Finalized**
+
+**Phase 3: November and beyond**
+-  Advanced Features
+
 
 ## Meetings Notes
 
