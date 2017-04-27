@@ -53,9 +53,9 @@ Issues will be listed and tracked on this Github repository site [here](https://
 
 http://build.fhir.org/ig/argonautproject/cds-hooks
 
-(GitHub will automatically trigger a new build whenever you commit changes.)
+(GitHub will automatically trigger a new build whenever you commit changes.
 
-Debugging info about the build: http://build.fhir.org/argonautproject/cds-hooks/debug.tgz)
+Debugging info about the build: http://build.fhir.org/argonautproject/cds-hooks/build.log)
 
 
 
