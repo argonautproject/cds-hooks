@@ -27,6 +27,11 @@ This specification is focused primarly on the patient-view hook.
 
 [CDS Hooks]: http://cds-hooks.org/
 
+
+
+
+### Ignore everything below here
+
 ### Jekyll Site Variables
 
 igName : Title of the implementation Guide -  {% raw %} {{ site.data.fhir.igName }} {% endraw %}= {{site.data.fhir.igName}}
