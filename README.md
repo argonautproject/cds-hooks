@@ -24,9 +24,8 @@ For current documentation on CDS Hooks see the project [web-site](http://cds-hoo
 
 **Phase 1: April --> June**
 
-- Fully documented patient view hook 
+- Draft Argonaut CDS Hooks Guidance outlining how systems use the patient-view hook to launch a SMART app 
 - SMART launch guide
-- Draft Argonaut CDS Hooks IG outlines how do you use CDS hooks to do a specific use case.
 
 **Phase 2: July --> September**
 
@@ -37,7 +36,7 @@ For current documentation on CDS Hooks see the project [web-site](http://cds-hoo
 **October – Argonaut CDS Hooks IG Finalized**
 
 **Phase 3: November and beyond**
--  Advanced Features
+-  Advanced Features: American College of Radiology Ordering, Opioid guidelines, etc.
 
 
 ## Meetings Notes
