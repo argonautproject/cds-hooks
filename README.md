@@ -1,6 +1,8 @@
 # Welcome to the [Argonaut](http://argonautwiki.hl7.org/index.php?title=Main_Page) CDS Hooks Implementation Guide
 
-CDS Hooks Lead: Kevin Shekleton
+CDS Hooks Lead: [Kevin Shekleton](https://github.com/kpshek) 
+
+CDS Hooks PMC, committer: [Isaac Vetter](https://github.com/isaacvetter)
 
 Argonaut Lead: [Micky Tripathi](mtripathi@maehc.org)
 
